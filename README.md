@@ -1,4 +1,5 @@
-### Bruno Wilson | Systems Engineer | Android Apps Developer | Web Fullstack Dev
+### Bruno Wilson
+#### Systems Engineer | Android Apps Developer | Web Fullstack Dev
 
 <br/>
 
