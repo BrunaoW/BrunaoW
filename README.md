@@ -51,5 +51,5 @@ Nice to meet you! My name is Bruno Wilson, I'm a Systems Engineer, graduated in 
 <br/>
 <img src="https://flagsapi.com/US/shiny/16.png"><img src="https://flagsapi.com/GB/shiny/16.png"> Intermediary
 <br/>
-<img src="https://flagsapi.com/FR/shiny/16.png">&nbsp;&nbsp;&nbsp; Intermediary
+<img src="https://flagsapi.com/FR/shiny/16.png">&nbsp;&nbsp;&nbsp;&nbsp; Intermediary
 <br/>
