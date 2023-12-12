@@ -48,5 +48,8 @@ Nice to meet you! My name is Bruno Wilson, I'm a Systems Engineer, graduated in 
 **Spoken languages**
 
 <img src="https://flagsapi.com/BR/shiny/16.png"><img src="https://flagsapi.com/PT/shiny/16.png"> Native
+<br/>
 <img src="https://flagsapi.com/US/shiny/16.png"><img src="https://flagsapi.com/GB/shiny/16.png"> Intermediary
+<br/>
 <img src="https://flagsapi.com/FR/shiny/16.png"><span style="padding-left:16px">&nbsp;</span> Intermediary
+<br/>
