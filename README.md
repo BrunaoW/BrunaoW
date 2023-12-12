@@ -14,7 +14,7 @@
 
 Nice to meet you! My name is Bruno Wilson, I'm a Systems Engineer, graduated in UFMG, Android and Web Developer, and also passionate about Artificial Intelligence and Optimization!!
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" />
+<img width="30%" align="right" alt="GIF" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" />
 
 
 **Talking about Personal Stuffs:**
@@ -43,6 +43,6 @@ Nice to meet you! My name is Bruno Wilson, I'm a Systems Engineer, graduated in 
 
 **Spoken languages**
 
-- 🇧🇷 Native
-- 🇺🇸 Intermediary
-- 🇫🇷 Intermediary
+- <img src="https://flagsapi.com/BR/shiny/16.png"> Native
+- <img src="https://flagsapi.com/US/shiny/16.png"> Intermediary
+- <img src="https://flagsapi.com/FR/shiny/16.png"> Intermediary
