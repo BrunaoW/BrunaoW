@@ -3,7 +3,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/bruno-wilson-a9a32b133/">
+<a href="https://www.linkedin.com/in/bruno-wilson-portes-a9a32b133/">
 <img align="left" alt="Bruno Wilson" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/brunowilsonldp/">
